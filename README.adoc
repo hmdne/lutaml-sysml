@@ -1,0 +1,6 @@
+= lutaml-sysml
+
+This repository has been merged into LutaML. See:
+
+* https://github.com/lutaml/lutaml/
+* https://github.com/lutaml/lutaml/tree/main/lib/lutaml/sysml
